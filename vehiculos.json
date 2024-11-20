@@ -1,0 +1,22 @@
+[
+  {
+    "Marca": "MITSUBISHI",
+    "Modelo": "LANCER",
+    "Año": 0,
+    "Placa": null,
+    "Kilometraje": 0,
+    "TipoCombustible": null,
+    "ID": 0,
+    "Nombre": null
+  },
+  {
+    "Marca": "TOYOTA",
+    "Modelo": "TACOMA",
+    "Año": 2020,
+    "Placa": "FGT4525",
+    "Kilometraje": 25600,
+    "TipoCombustible": "GASOLINA",
+    "ID": 0,
+    "Nombre": null
+  }
+]

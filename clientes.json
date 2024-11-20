@@ -1,0 +1,42 @@
+[
+  {
+    "Telefono": "94301254",
+    "Id": "0817199600010",
+    "Direccion": "zamorano",
+    "CorreoElectronico": "dalwin.lagos",
+    "FechaRegistro": "2024-11-18T00:00:00",
+    "TipoCliente": null,
+    "ID": 0,
+    "Nombre": "dalwin"
+  },
+  {
+    "Telefono": "97791238",
+    "Id": "0817199600010",
+    "Direccion": "zamorano",
+    "CorreoElectronico": "dalwin.lagos",
+    "FechaRegistro": "2024-11-18T00:00:00",
+    "TipoCliente": null,
+    "ID": 0,
+    "Nombre": "Dalwin"
+  },
+  {
+    "Telefono": "97791238",
+    "Id": "0817199500010",
+    "Direccion": "ZAMORANO",
+    "CorreoElectronico": "DALWIN.LAGOS",
+    "FechaRegistro": "2024-11-18T00:00:00",
+    "TipoCliente": null,
+    "ID": 0,
+    "Nombre": "DALWIN"
+  },
+  {
+    "Telefono": "96874578",
+    "Id": "1",
+    "Direccion": "TEGUCIGALPA",
+    "CorreoElectronico": "MRODRIGUEZ",
+    "FechaRegistro": "2024-11-19T00:00:00",
+    "TipoCliente": null,
+    "ID": 0,
+    "Nombre": "MARLON"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Descripcion": "MANTENIMIENTO",
+    "Costo": 2315.95,
+    "TiempoEstimado": 2,
+    "Garantia": "2 MESES",
+    "DescripcionServicio": "CAMBIO DE ACEITE, FILTROS Y FRICCIONES",
+    "FechaUltimoServicio": "2024-08-15T00:00:00",
+    "ID": 0,
+    "Nombre": null
+  },
+  {
+    "Descripcion": "mantenimiento",
+    "Costo": 5640.25,
+    "TiempoEstimado": 3,
+    "Garantia": "2meses",
+    "DescripcionServicio": "mantenimiento y reparacion",
+    "FechaUltimoServicio": "2024-08-25T00:00:00",
+    "ID": 0,
+    "Nombre": null
+  }
+]

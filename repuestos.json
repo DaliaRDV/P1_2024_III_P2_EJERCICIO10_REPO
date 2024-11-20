@@ -1,0 +1,22 @@
+[
+  {
+    "Codigo": "001",
+    "Costo": 1802.05,
+    "Proveedor": "AUTOEXEL",
+    "FechaCompra": "2024-10-25T00:00:00",
+    "Stock": 100,
+    "Categoria": "PREMIUM",
+    "ID": 0,
+    "Nombre": null
+  },
+  {
+    "Codigo": "002",
+    "Costo": 1582.0,
+    "Proveedor": "toyorepuestos",
+    "FechaCompra": "2024-10-08T00:00:00",
+    "Stock": 220,
+    "Categoria": "premium",
+    "ID": 0,
+    "Nombre": null
+  }
+]

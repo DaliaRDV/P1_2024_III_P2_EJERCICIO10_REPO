@@ -1,0 +1,24 @@
+[
+  {
+    "NumeroFactura": "000-001-01-00000001",
+    "FechaEmision": "2024-11-19T00:00:00",
+    "ClienteID": 0,
+    "RTN": "08019002266888",
+    "Subtotal": 0.0,
+    "Impuesto": 0.00,
+    "Total": 0.00,
+    "ID": 0,
+    "Nombre": null
+  },
+  {
+    "NumeroFactura": "000-001-01-00000002",
+    "FechaEmision": "2024-11-19T00:00:00",
+    "ClienteID": 0,
+    "RTN": "08019002255994",
+    "Subtotal": 0.0,
+    "Impuesto": 0.00,
+    "Total": 0.00,
+    "ID": 0,
+    "Nombre": null
+  }
+]
